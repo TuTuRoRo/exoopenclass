@@ -9,6 +9,10 @@ body{
 }
 
 .formul{
+	/*display: flex;
+	justify-content: center;
+	align-items: center;
+	direction: column;*/
 	background-color: white;
 	height:400px;
 	width: 400px;
