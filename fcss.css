@@ -8,8 +8,13 @@ body{
 	justify-content: center;
 }
 
-form{
-	background-color: white
-	margin:100px;
+.formul{
+	background-color: white;
+	height:400px;
+	width: 400px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	position: absolute;
 
 }
